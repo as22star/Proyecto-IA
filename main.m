@@ -26,7 +26,7 @@ addpath('Toolbox TicTacToe');
 % en 3 cuando quiera verificar que su programa es capaz de interactuar con
 % el agente del profesor. Recuerde que el agente del profesor implementado
 % en este código no es inteligente, pues realiza jugadas al azar
-option = 1;
+option = 3;
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 numEpisodes = 1; % Número de veces que se repite el juego
 tictactoe5x5(option, numEpisodes);
